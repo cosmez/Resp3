@@ -3,6 +3,5 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
-/.vs/Resp3/FileContentIndex
-/.idea/.idea.Resp3/.idea
-/.vs/Resp3/v17
+/.idea
+/.vs
